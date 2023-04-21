@@ -1,8 +1,7 @@
 # Passord_Generator
 
-![image](https://user-images.githubusercontent.com/98038100/233651505-39276e38-a881-41f2-a118-f5f6df22ff7d.png)
-![image](https://user-images.githubusercontent.com/98038100/233651724-0aa3ea78-2ce6-4311-a929-b1d4fea63a14.png)
-
+![image](https://user-images.githubusercontent.com/98038100/233652223-a9ffb213-48ef-47de-aff0-a323f2f0f048.png)
+![image](https://user-images.githubusercontent.com/98038100/233652289-54e07dc5-2c25-4d3b-bda1-9e9f08d8edaa.png)
 
 
 ## About this Project
