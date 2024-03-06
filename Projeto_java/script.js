@@ -24,5 +24,11 @@ function generatePassword(){
 
     containerPassword.classList.remove("hide");
     password.innerHTML = pass;//fazer a aprecer no html
+    novaSenha = pass;
 
+}
+
+function copyPassord(){
+    alert("Senha copiada");
+    navigator.clipboard.writeText(novaSenha); //copiar senha 
 }
