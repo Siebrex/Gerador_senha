@@ -12,7 +12,7 @@ The ideia of the site:
 Site that will generate a random passord for you.
 
 
-## Buid With:
+## Build With:
 
 - Html
 - Css
